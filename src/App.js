@@ -10,7 +10,7 @@ function App() {
       <ThemeContextProvider>
         <BtnDark />
         <Content />
-        <CallApi></CallApi>
+        <CallApi />
       </ThemeContextProvider>
     </div>
   );
