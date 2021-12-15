@@ -1,0 +1,26 @@
+.content {
+  font-size: 20px;
+  text-align: justify;
+  padding: 20px;
+  height: 100vh;
+}
+.content.light {
+  color: #333;
+  background: rgb(200, 200, 200);
+}
+.content.dark {
+  color: #fff;
+  background: rgb(25, 25, 25);
+}
+
+.word {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
